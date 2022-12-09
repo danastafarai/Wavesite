@@ -1,0 +1,81 @@
+h1 {
+  color: orange;
+  background-color: green;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 30px;
+}
+
+#dif1 {
+  background-color: red;
+}
+
+#header1 {
+  font-family: serif;
+  font-style: oblique;
+  font-weight: normal;
+}
+
+#header2 {
+  font-family: sans-serif;
+  color: rgb(7, 7, 7);
+}
+
+#header3 {
+  font-family: monospace;
+}
+
+a:link {
+  font-family: curior;
+  color: orange;
+}
+a:hover {
+  color: blueviolet;
+  font-family: monospace;
+}
+
+a:active {
+  color: red;
+}
+
+a:visited {
+  color: green;
+}
+
+table {
+  background-color: orange;
+  border: 6px dashed blueviolet;
+}
+
+td {
+  background-color: green;
+}
+
+th {
+  background-color: red;
+  border: 6px dashed blueviolet;
+}
+
+#C1 {
+  border: 10px solid yellow;
+}
+
+ul {
+  list-style-type: lower-alpha;
+}
+
+ol {
+  list-style-type: upper-roman;
+}
+
+#dif2 {
+  list-style-type: lower-roman;
+}
+
+.change {
+  color: maroon;
+}
+
+body {
+  background-color: lightgreen;
+  font-size: 30px;
+}
